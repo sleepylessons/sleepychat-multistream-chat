@@ -1,5 +1,5 @@
 # Multi-Stream Chat - SleepyChat
-Mutistream chat app for Twitch, Tiktok, Youtube, and Kick.
+[Multi-Stream Chat](https://github.com/sleepylessons/sleepychat-multistream-chat/issues/new) app for Twitch, Tiktok, Youtube, and Kick.
 
 [https://sleepychat.org/](https://sleepychat.org)
 
