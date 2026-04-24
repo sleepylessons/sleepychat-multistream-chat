@@ -1,4 +1,8 @@
+
+[<img width="1493" height="596" alt="Multi-Stream Chat website sleepychat.org" src="https://github.com/user-attachments/assets/5e29c6c8-a8d9-42a2-a687-d0f6135bfbd3" />](https://sleepychat.org)
+
 # Multi-Stream Chat - SleepyChat
+
 [Multi-Stream Chat](https://github.com/sleepylessons/sleepychat-multistream-chat/issues/new) app for Twitch, Tiktok, Youtube, and Kick.
 
 [https://sleepychat.org/](https://sleepychat.org)
